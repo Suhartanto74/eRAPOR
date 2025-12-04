@@ -1,0 +1,4 @@
+title: 'Suhartanto - Website Pribadi'
+remote_theme: pages-themes/minimal@v0.2.0 # Tema minimalis
+plugins:
+  - jekyll-remote-theme
